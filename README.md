@@ -869,7 +869,7 @@ MIT
 If you use this tool in your research, please cite:
 
 ```
-[TODO: citation information]
+[Coming soon: citation information]
 ```
 
 ## Contact
