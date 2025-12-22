@@ -1,0 +1,15 @@
+{
+  "timestamp": "20251104_222536",
+  "model_instance": "gpt-5-mini-2025-08-07",
+  "model_type": "gpt",
+  "prompt_version": "prompt_v4",
+  "temperature": 0.3,
+  "processing_time": "00:08:47",
+  "processing_time_seconds": 527.4901361465454,
+  "token_count": 64545,
+  "input_tokens": 39429,
+  "output_tokens": 25116,
+  "thinking_mode": null,
+  "date_processed": "2025-11-04 22:34:24",
+  "estimated_cost_usd": 0.060089
+}

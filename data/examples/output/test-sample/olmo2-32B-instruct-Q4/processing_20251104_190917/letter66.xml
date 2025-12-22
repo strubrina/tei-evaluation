@@ -1,0 +1,17 @@
+<body>
+  <div type="letter">
+    <opener>
+      <salute>Votre dernière lettre, mon très-cher Hammer, m’a fait le plus grand plaisir.</salute>
+    </opener>
+    <p>Si je ne la cite pas par sa date, c&#x27;est que je n&#x27;ai pu déchiffrer celle-ci. Je vois avec infiniment de satisfaction que Vous êtes plus content, et mieux connu. Cela devait suivre naturellement de cela. Mais pour juger de ce que Vous êtes, avouez, qu’il fallait bien que M. l’Internonce Vous observât et Vous fît observer pendant quelque temps. Je savais bien, que, lorsqu’à travers l’inconcevable légèreté de l’extérieur il aura pénétré jusqu’aux qualités infiniment estimables de Votre moral, qu’il Vous rendra justice; je suis même persuadé, qu’il Vous aimera et estimera de plus en plus, et que, peut-être plutôt qu’aucun autre de Vos protecteurs, il Vous fera parvenir à Votre but. Je me suis aperçu de quelque chose à cet égard dans une lettre qu’il a écrite à M. de J, et qui m’a prouvé combien j’avais raison de Vous conseiller de mettre en lui toute Votre confiance et de tâcher de mériter de toute manière son approbation. Ainsi continuez, mon bon Ami; profitez des très-bonnes dispositions de M. l’Internonce; rendez-Vous agréable; suivez ses préceptes, ils sont, je Vous assure, très bons. Puis attendez; tout réussira, à mesure, en son temps.</p>
+    <closer>
+      <salute>J’ai lu avec beaucoup de plaisir la lettre que Vous m’avez prié de soigner pour W.: M. Lerse Vous répondra sans doute, je lui ai d’abord faire tenir la sienne.</salute>
+      <p>A propos que je Vous parle d’une bagatelle, mais qui est de celles qui échappent à Votre inadvertance. Dans la lettre à B., Vous Vous réjouissez de lui écrire des bords du Phosphore. Ne dirait-on pas que Vous ignorez de l’orthographie et l’étymologie du mot? Et que Vous confondez un détroit avec un astre? ... </p>
+      <!-- Here the full text is truncated for brevity -->
+      <signed>
+        <salute>Je Vous prie de remercier beaucoup M. l’Internonce ...</salute>
+        <signed>Georg v Cotta</signed>
+        <dateline>Vienne ce 16 Sept 99</dateline>
+      </closer>
+    </div>
+  </body>

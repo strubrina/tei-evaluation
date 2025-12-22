@@ -1,0 +1,24 @@
+{
+  "prompt_v1": {
+    "encoding_rules": "detailed",
+    "few_shot_examples": 0
+  },
+  "prompt_v2": {
+    "encoding_rules": "detailed",
+    "few_shot_examples": 5
+  },
+  "prompt_v3": {
+    "encoding_rules": "short",
+    "few_shot_examples": 0
+  },
+  "prompt_v4": {
+    "encoding_rules": "short",
+    "few_shot_examples": 5
+  },
+  "prompt_v5": {
+    "encoding_rules": "detailed",
+    "few_shot_examples": 2
+  }
+}
+
+

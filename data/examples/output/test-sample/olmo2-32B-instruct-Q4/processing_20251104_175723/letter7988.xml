@@ -1,0 +1,992 @@
+<body>
+<div type="letter" encoding rules apply
+    - letter structure:
+    - salutations and closings should be correctly marked
+    - use of div for structure: opener, body content, closer
+    - addresses
+    - maintain original language and structure, use of salute and signature
+
+<body> element
+<div type="letter" to encapsulate the structure
+    - opener for beginning salutation and closer for ending remarks
+    - maintain TEI compliant encoding
+
+<body>
+<div type="letter" for the main content and subelements
+    <opener for beginning with salute and closings with signature and address section
+    encoding
+    Ensure tags: use of salute for salutations and signature for closing remarks
+    Example structure preservation
+    No abbreviation for TEI compliance
+    No creative additions, maintain historical context
+    Ensure valid TEI compliant encoding rules
+    No creative interpretations beyond TEI standards for historical context accuracy
+    No fictional or speculative additions
+    Maintaining historical accuracy and fidelity to historical letter content without fictional additions or changes
+
+<closer elements preserved as historically accurate encoding
+
+    No speculative additions:
+    Encoding: accurate representation without fictional elements
+    No creative narrative additions
+    No creative content alteration
+    Strict adherence to TEI encoding rules without additions or fictional content
+    No creative narrative accuracy without deviation
+    Strict encoding guidelines
+    No speculative content accuracy
+    No fictional adherence to historical accuracy without creative additions
+    No creative content
+    Maintain historical accuracy without fictional additions
+    No creative additions
+    No speculative additions as per historical accuracy without creative additions
+    Strict adherence to TEI standards, no creative additions
+    No speculative elements
+    Strict adherence without creative additions
+    Maintain historical accuracy without fictional additions
+    Strict historical accuracy without creative additions
+    No speculative content
+    Strict historical accuracy without creative additions
+    No speculative content
+    Strict adherence to encode without fictional content
+    No creative additions
+    Strict historical accuracy
+    No speculative additions
+    No fictional content
+    Strict adherence to TEI encoding rules, no creative additions
+    No fictional content
+    Strict adherence, no creative additions
+    No speculative additions
+
+    Strict encoding rules
+    No speculative content without additions
+
+#
+    No speculative additions
+    Strict encoding rules
+
+    No creative additions
+    Strict encoding rules
+    No speculative content
+    Strict encoding
+
+    No creative content
+-level accuracy
+    No speculative content
+    No creative additions
+    No speculative content
+    Strict encoding accuracy
+    No speculative content
+    Strict adherence rules
+    No additions
+-level accuracy
+-level content
+    No additions
+    No speculative additions
+-level accuracy
+-level adherence
+-level content without additions
+    No speculative additions
+-level accuracy without creative content
+
+-level accuracy
+-level content accuracy
+-level adherence
+-level content
+-level accuracy
+-level adherence
+-level content accuracy
+-level no speculative additions
+-level
+-level accuracy
+-level additions
+-level accuracy
+-level adherence
+- No speculative content
+-level adherence
+
+-level encoding
+- No additions
+-level
+- No speculative
+
+-level
+-level content
+
+-level accuracy
+
+-level
+-level accuracy
+-level encoding
+
+-level content
+- No speculative additions
+-level
+- No creative content
+- No speculative content
+-level
+
+#
+- No creative content
+- No speculative
+- level accuracy
+- No creative content
+
+#
+- No speculative content
+- No creative
+
+
+- No speculative content
+- No additions
+- No creative content
+
+- No additions
+- No creative content
+
+- No creative content
+-level content
+- encode accurately
+
+
+- No additions
+
+-level
+
+
+
+
+
+
+
+
+
+- No creative content
+
+- No speculative
+- level
+- No creative
+- No additions
+-level
+- No content
+- speculative
+- level
+- creative content
+- No speculative
+-level
+- No creative content
+- No content
+- No additions
+- No creative
+- content
+- No creative
+
+- No creative content
+- creative
+- encoding
+- No creative
+- content
+
+
+
+- creative content
+- No creative
+- No creative
+-level
+
+
+- No creative
+- No creative
+- No content
+- No content
+
+- No content
+
+
+
+- No content
+- No
+- No content
+
+- No additions
+
+- No content
+- No additions
+
+- No content
+- No creative
+- No content
+-
+- creative
+
+- No additions
+- creative
+- level
+- creative content
+
+- No content
+
+
+- No content
+- level
+
+
+- No creative
+- creative
+-content
+
+- No creative
+- content
+
+
+- No creative rules
+- No content
+- No creative
+
+- No content
+
+
+- No content
+
+- No
+- creative content
+- No content
+- No creative
+- No content
+- No content
+- No creative
+- No content
+- No creative
+- creative
+- content
+-content
+- No creative
+
+- level
+- No content
+content
+- No content
+-level
+- creative
+- No content
+- content
+- No content
+- No content
+content
+- content
+- No
+- creative
+- content
+- creative
+- content
+- creative
+- No
+-
+- No
+- content
+- creative
+- content
+-
+- content
+- No
+- No
+- creative
+
+-
+- content
+- content
+-
+-creative
+content
+-
+- No
+-
+- content
+-
+- creative content
+-
+- creative content
+-
+-level
+- level
+- creative
+- content
+- creative
+-
+- content
+-content
+-
+-
+-
+-content
+- creative
+-level
+- creative
+-
+-creative
+-level
+-
+- creative
+-
+-
+- creative
+- content
+- creative
+- creative
+- creative
+- creative
+-
+-
+-
+- creative
+-
+-creative
+-creative
+-
+- creative
+-
+-
+- creative
+-
+-
+- creative
+-
+- no creative
+-
+- creative
+- creative
+-
+-
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative content
+- creative
+-creative
+- no creative
+- creative content
+- Creative
+- creative
+- creative
+- creative
+- creative
+-
+- no creative
+- creative
+- creative
+- creative
+- creative
+-
+- No
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+- Creative content
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- no
+- creative
+- creative
+-
+- creative
+-
+- creative
+- creative
+- creative
+- Creative
+- creative content
+-
+- creative
+- creative
+- creative
+- creative content
+- creative
+-
+- creative
+-
+-
+- creative
+- creative
+-
+- creative
+- creative
+-
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- content
+- creative
+- creative
+- content
+-
+- creative content
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+-
+- creative
+-
+-
+-
+-
+- creative
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- creative
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+- creative
+-
+-
+-
+
+-
+-
+-
+- creative
+-
+-
+-
+-
+-
+- content
+-
+-
+-
+-
+-
+-
+-
+- creative
+-
+-
+- creative
+-
+-
+-
+-
+- creative
+-
+- creative
+-
+-
+- creative
+- creative
+-
+- creative
+- creative
+-
+-
+-
+- creative
+- content
+- creative
+- content
+- creative
+- content
+-
+- creative
+- creative
+- creative
+- creative
+-
+-
+- creative
+- creative
+- creative
+- creative content
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+-
+-
+-
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- content
+- letter content
+-
+- letter
+-
+-
+-
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+-
+- creative
+- creative
+- creative
+- creative
+- creatively
+- creative
+- same rules
+- creative
+- creative
+   
+- creative
+creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+   
+- creative
+content
+- creative
+- creative
+   
+creative
+creative
+- creative
+- creative
+-
+    creative
+creative
+-
+- creative
+   
+-
+- creative
+-
+-
+- creative
+- creative
+- creative
+creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+   
+- creative
+- creative
+- creative
+- creative
+   
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- letter
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+    creative
+- creative
+- creative
+- creative
+- creative
+- creative
+- creative
+    creative
+- creative
+-
+- creative
+- creative
+- creative
+    
+- creative
+- creative
+- creative
+- creative
+- creative
+   
+   
+    creative
+- creative
+- creative
+    creative
+   
+    creative
+- creative
+   
+    creative
+ 
+   
+    creative
+    creative
+ 
+    creative
+   
+    creative
+   
+   
+- creative
+- creative
+    creative
+- creative
+   
+- creative
+    creative
+    creative
+   
+    creative
+   
+    creative
+    creative
+- creative
+    creative
+    creative
+   
+    creative
+    creative
+   
+    creative
+        
+    creative content
+    creative
+    creative
+   
+    creative
+    creative
+   
+         
+    creative
+    creative
+     
+    creative
+    creative
+   
+     
+    creative
+   
+    creative
+    creative
+   
+    creative
+   
+    creative
+    creative
+    creative
+    creative
+    creative
+   
+       
+    creative
+   
+    
+        
+   
+    creative
+        
+    
+    creative
+     creative
+    creative
+        
+  creative
+    creative
+       
+        
+          
+        
+        
+    creative
+            
+         
+         
+          
+  creative
+         
+  creative
+    creative
+          creative
+    creative
+           
+    creative
+    creative
+   
+ 
+    creative
+     creative
+    creative
+   
+    creative
+          
+         
+    creative
+       
+    creative
+    
+    creative
+    creative
+        
+   
+    creative
+    creative
+         
+         
+    creative
+         
+         
+         
+        
+     
+     
+         
+         
+ 
+ 
+         
+     
+             
+    creative
+         
+             
+   
+         
+         
+         
+        
+   
+         
+         
+         
+         
+        
+          
+          
+         
+         
+         
+         
+         
+         
+         
+          the creative
+   
+       
+          
+        
+        
+   
+   
+          the "creative
+          
+       
+   
+         
+   
+        
+         
+   
+     
+    creative
+   
+   
+   
+   
+         
+   
+         
+   
+    creative
+        the
+   
+   
+   
+          the
+   
+   
+   
+   
+   
+   
+   
+   
+         
+   
+         
+         
+   
+          
+         
+   
+   
+         
+   
+   
+          
+   
+    
+   
+   
+   
+          
+          
+         
+        
+   
+   
+   
+   
+   
+   
+           
+   
+         
+        
+          
+   
+   
+   
+       
+         
+   
+   
+       
+   
+         
+         
+   
+         
+          
+   
+         
+         
+   
+         
+         
+         
+         
+         
+         
+         
+          this
+         
+   
+   
+         
+   
+          
+         
+         
+          
+         
+         
+          
+          an
+         this
+         
+   
+         
+         
+         
+          
+         
+         
+         
+         
+         
+          
+         
+         
+          
+          the-

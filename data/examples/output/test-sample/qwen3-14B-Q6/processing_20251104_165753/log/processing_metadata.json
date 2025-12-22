@@ -1,0 +1,14 @@
+{
+  "timestamp": "20251104_165753",
+  "model_instance": "qwen3-14B-Q6",
+  "model_type": "qwen",
+  "prompt_version": "prompt_v3",
+  "temperature": 0.6,
+  "processing_time": "00:16:29",
+  "processing_time_seconds": 989.4032392501831,
+  "token_count": 41455,
+  "input_tokens": 12329,
+  "output_tokens": 29126,
+  "thinking_mode": true,
+  "date_processed": "2025-11-04 17:14:22"
+}

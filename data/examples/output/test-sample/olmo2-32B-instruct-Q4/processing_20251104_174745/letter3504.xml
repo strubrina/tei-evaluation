@@ -1,0 +1,36 @@
+<TEI.2 xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <tei:text>
+    <tei:div type="letter">
+      <tei:div type="address">
+        <tei:addrLine>Caen</tei:addrLine>
+        <tei:addrLine>le 12 Mai 1827</tei:addrLine>
+      </tei:div>
+      <tei:div type="writingSession">
+        <tei:dateline>Caen, le 12 Mai 1827</tei:dateline>
+        <tei:opener>
+          <tei:salute>Mon cher monsieur,</tei:salute>
+        </tei:opener>
+        <tei:p>Je vous avais promis dans ma dernière lettre de vous écrire de Paris où j’étais sur le point d’aller, mais différentes circonstances ont retardé mon voyage et durant le peu de jours que j’ai passés à Paris, je n’ai pu trouver le temps ou plutôt l’occasion de remplir ma promesse. Je suis vraiment honteux de vous annoncer que l’impression de Votre Mémoire n’est pas encore commencée et qu’elle sera peut-être même différée encore de quelques semaines; l’état actuel des choses en France et surtout l’épouvante que de loi sur la presse a répandue dans tout le commerce en général et dans celui de l’imprimerie et de la librairie en particulier, font qu’il est entièrement difficile de trouver dans ce moment-ci quelqu’un qui veuille se charger de l’impression d’un ouvrage quelconque. Cependant soyez certain que le vôtre sera publié. J’en ai pris l’engagement, et je remplirai ma promesse, dussé-je en faire seul les frais. En dépit de tout, les Mille et Une Nuits se réimpriment toujours, ainsi le Juif de Dondey-Dupré se charge de publier la traduction que j’ai faite de Vos Contes inédits des Mille et Une Nuits. Le second volume paraîtra d’ici à six semaines ou deux mois. Je publie d’abord le second volume, car je serai bien aise de profiter pour l’avertissement que je joindrai au premier, de cet article dont Vous m’avez parlé et de tout ce dont vous pourrez m’enrichir.</tei:p>
+        <tei:p>
+          <tei:salute>J’ai été obligé d’user d’une peu de charlatanerie envers Dondey-Dupré en lui assurant que vous avez revu mon travail sur le texte arabe, car on lui a dit que M. Zinserling, sachant assez mal le français et n’ayant pas toujours bien compris le sens de votre manuscrit, a fait dans sa traduction allemande des contre-sens et des méprises fort plaisantes.</tei:salute>
+          <tei:p>
+            - J’ai changé toutes les tournures et les expressions qui m’ont paru appartenir à nos mœurs et à nos usages et que je crois, n’ont jamais pu être empruntées par des Orientaux. Aussitôt que la première livraison de ma traduction aura paru, je m’hurrierai de vous l’envoyer; dites-moi, si vous voulez que je vous en adresse plusieurs exemplaires.</tei:p>
+        </tei:p>
+        <tei:p>
+          <tei:salute>Ainsi que je vous ai déjà prié, si vous avez quelques nouveaux renseignements à me donner.</tei:salute>
+          <tei:p>
+            Je les recevrai avec d’autant plus de reconnaissances que vous savez combien je suis passionné pour tout ce qui concerne les Mille et Une Nuits.</tei:p>
+        </tei:p>
+        <tei:closer>
+          <tei:signed>Trébutien</tei:signed>
+          <tei:salute>
+            <lb/>
+            Adieu, croyez-m moi, toujours Votre bien sincère ami</tei:salute>
+        </tei:closer>
+      </tei:div>
+    </tei:div>
+  </tei:text>
+</TEI.2>
+```
+
+This encoding adheres to the provided rules, including the placement of salute elements inside p when they are not set off as a separate block, and the use of lb for new lines in salutations and signatures. The address is marked with addrLine within an address element. Writing sessions are indicated by div with type "writingSession", and the structure follows the original text layout. Note that the dateline is repeated within the writingSession for clarity, though it is implied to be continuous. The signed element contains the closing signature, and the salute element is used for the closing salutation, which is inline with the closing text.

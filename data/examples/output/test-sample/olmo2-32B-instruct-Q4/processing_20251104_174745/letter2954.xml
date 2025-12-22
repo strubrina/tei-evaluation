@@ -1,0 +1,28 @@
+<body>
+      <div type="letter">
+        <div type="address">
+          <addrLine>Hochgeehrtester Herr Hofrat</addrLine>
+        </div>
+        <div type="writingSession">
+          <dateline>Graz am 22. Dez 823</dateline>
+          <opener>
+            <salute>Wohlgeborner Herr! Hochgeehrtester Herr Hofrat! Wertester Freund!</salute>
+          </opener>
+          <p>Um Ihrem Wunsche zu entsprechen, habe ich die Einleitung getroffen, daß die mir mit dem freundschaftlichen Schreiben vom 5ten l M zugesendeten Stanzen nicht in den Aufmerksamen eingerückt werden, wenn sie etwa dem Redakteur dieses Blattes zukommen sollten, eine Vorsicht, die gewiß, wenn schon einmal dieß ansprechende Gedicht dem Publikum vorenthalten werden soll, um so notweniger war, als Kollmann nur zu froh sein dürfte, einen solchen reichen Fund für seinen armen, keine Aufmerksamkeit erweckende Aufmerksamen machen zu können. Ihre Meinung bezüglich auf das steirische Wappen teile ich vollkommen, da sie der Natur zu vollständig anpasset, während ihr jene der Grazer Zwang antut. – Muchar ist hier als Supplent der Lehrkanzel des Bibelstudiums alten und neuen Bundes, hat sich nur die Erstere und zugleich auch um die Kanzel der Geschichte nach Schneller in Kompetenz gesetzet.</p>
+          <p>Was Sie mir von der kaustischen Laune des L Byron mitteilten hat mich sehr erlustigt, da ich das Werk selbst noch nicht in Händen habe, und hier, wo die Mehrzahl der Leute aus der großen Welt vielleicht nicht einmal weiß, daß es einen Byron gibt, auch nichts darüber sprechen hörte; die Buchhändler hier dürfen derlei Gift nicht führen, obwohl es nirgend unschädlicher als hier wäre, weil es selbst wenn es genossen werden würde, gewiß unverdaut, ohne Anwendung der in England neu erfundenen Maschine zum Ausräumen des Magens wieder abginge. In der Tat, es lebt sich hier recht gut, nur darf man in der geistigen Nahrung, die man in der Gesellschaft erhält, keine Recherches, sondern allenfalls nur derbe Hausmannskost suchen.</p>
+          <p>Damit will ich nicht sagen, daß es in Graz an Gelehrten gebricht, ganz und gar nicht! Doch muß man sie in den Studierkämmerchen suchen, wo sie aber ganz natürlich wenig genießbar sind. Überhaupt ist der gesellige Ton durch Steifheit und Stolz ein wahrer Mißton: ich gebe mir alle Mühe diese Dissonanz aufzulösen, und lästiges Ceremonial zu verbannen, doch da tritt wie immer der durchlauchtigste Prinz Hohenzollern und der durchlauchtige Prinz Hohenlohe in den Weg, welche beide ihre Atmosphäre von Langweile überall mit sich tragen, und durch die aus der Rüstkammer des hohen Ahnherrn, der großen Kurfürsten von Brandenburg hervorgegangenen Uniformsgesetze auch die übrigen subalternen Waffengenossen für die Gesellschaft ungenießbar machen. Um Ihnen den Schlüssel zu dieser Dithyrambe zu geben, muß ich Ihnen sagen, daß die Prinzen, um die Uniform zu Ehren zu bringen, den Offizieren befehlen, zu mir, trotz meines ausgesprochenen Wunsches, in Uniform zu kommen, und durch Tagsbefehl sogar die Hosen (nämlich weiße oder schwarze), die sie anziehen sollen, bestimmen.</p>
+          <salute>
+            <lb/>
+            <salute>Gegen solche Tollheit gibt es für mich gar kein Schutzmittel als jenes der Persiflage, wovon ich auch vollen Gebrauch mache.</salute>
+          </salute>
+          <p>Kommen Sie doch her und sehen Sie dem Spuke zu, wäre es auch nur auf einige Tage: dann gilt bei der Rückkehr in das gesellige Wien gewiß das bekannte meminisse juvabit!</p>
+          <signed>Hartig</signed>
+          <closer>
+            <salute>Und nun zum Schlusse empfangen Sie meine aufrichtigsten Wünsche zum bevorstehenden Jahreswechsel vereint mit jenen meiner Frau, die Versicherung der ausgezeichnetsten Hochachtung und Freundschaft</salute>
+          </closer>
+          <postscript>
+            <p>womit ich bin und bleibe Euer Wohlgeboren ergebenster Freund</p>
+          </postscript>
+        </div>
+      </div>
+    </body>

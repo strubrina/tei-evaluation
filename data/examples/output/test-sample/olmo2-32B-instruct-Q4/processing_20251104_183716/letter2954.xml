@@ -1,0 +1,20 @@
+<body>
+  <div type="letter">
+    <opener>
+      <salute>Wohlgeborner Herr! Hochgeehrtester Herr Hofrat! Wertester Freund!</salute>
+      <dateline>Graz am 22. Dez823</dateline>
+    </opener>
+    <p>Um Ihrem Wunsche zu entsprechen, habe ich die Einleitung getroffen, daß ...</p>
+    <p>... und so weiter, wie es in der Originalsprache bleibt, um die Textstruktur modelliert nach den genannten Regeln.
+      <p>...
+      <closer>
+        <signed>
+          <salute>...
+            <closer>
+              <signed>
+                <date>
+                <body>
+                  ...
+                  <p> content here</p>
+                  ...
+                </body>

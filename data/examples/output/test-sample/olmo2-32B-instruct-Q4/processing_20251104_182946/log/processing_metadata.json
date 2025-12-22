@@ -1,0 +1,14 @@
+{
+  "timestamp": "20251104_182946",
+  "model_instance": "olmo2-32B-instruct-Q4",
+  "model_type": "olmo",
+  "prompt_version": "prompt_v3",
+  "temperature": 0.6,
+  "processing_time": "00:08:09",
+  "processing_time_seconds": 489.55670952796936,
+  "token_count": 21165,
+  "input_tokens": 12066,
+  "output_tokens": 9099,
+  "thinking_mode": null,
+  "date_processed": "2025-11-04 18:37:55"
+}
