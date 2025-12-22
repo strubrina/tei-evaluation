@@ -39,10 +39,6 @@ Additional metrics provided for analysis:
 - XML Score: 100 - (error count) - informative score only, not included into final scoring
 - Error breakdown by category
 
-**Performance**
-
-- Well-formed files: ~1ms per file (lxml validation only)
-- Malformed files: ~10-50ms per file (includes comprehensive error analysis)
 
 **Output Files**
 
@@ -436,7 +432,6 @@ tei_llm_evaluation/
 │   ├── schemas/                # Project-specific schemas
 │   │   └── letter_schema.rng  # Custom schema (if any)
 │   └── examples/               # Example data for testing/demonstration
-
 │
 ├── results/                    # Evaluation results (generated)
 │   ├── model/                  # Per-model evaluation results
@@ -838,20 +833,19 @@ All evaluation scripts generate detailed output files in the `results/` director
 - `results/cross_model/cross_model_comp_{models}.png` - Cross-model comparison
 
 
-## Version History
+## Features
 
-### Version 1.0.0 (Publication-Ready Release)
+This release (v1.0.0) includes:
 
-This release represents the publication-ready version of the TEI LLM Evaluation Framework with comprehensive code quality improvements:
-
-**New Features**:
+**Core Functionality**:
+- ✅ Multi-dimensional evaluation framework (D0-D4) for TEI XML quality assessment
 - ✅ Command-line interface (CLI) support for all evaluation scripts via `argparse`
 - ✅ Comprehensive logging system with configurable verbosity levels
 - ✅ Quiet mode (`--quiet`) and verbose mode (`--verbose`) for all scripts
 - ✅ Dual-mode operation: Interactive menus and CLI arguments
 - ✅ Centralized logging configuration in `logs/` directory
 
-**Code Quality Improvements**:
+**Code Quality**:
 - ✅ Google-style docstrings for all public functions, classes, and methods
 - ✅ Type hints for all function signatures
 - ✅ Specific exception handling (no bare `except:` blocks)
@@ -859,18 +853,12 @@ This release represents the publication-ready version of the TEI LLM Evaluation 
 - ✅ Standardized error handling patterns
 - ✅ Enhanced module-level documentation
 
-**Backward Compatibility**:
-- ✅ 100% backward compatible with existing workflows
-- ✅ All result file formats and naming conventions preserved
-- ✅ Interactive mode remains the default for all scripts
-- ✅ Existing evaluation results remain reproducible
-
-**Scripts Updated**:
+**Evaluation Scripts**:
 - `d0_eval.py`, `d1_eval.py`, `d2_eval.py`, `d3_eval.py`, `d4_eval.py` - Individual dimension evaluations
 - `unified_eval.py` - Unified multi-dimensional evaluation
 - `compare.py` - Comparison and visualization tool
 
-For detailed usage of new CLI features, see the Usage section above.
+For detailed usage, see the Usage section above.
 
 ## License
 
