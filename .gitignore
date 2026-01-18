@@ -1,3 +1,7 @@
+# Archived folder containing results from previous test runs
+data/_archive
+results/_archive
+
 # Python
 __pycache__/
 *.py[cod]
@@ -81,4 +85,6 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
 
