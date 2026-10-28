@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Third-party files and example data
+
+The MIT License above applies to the code. The following files are not covered by it and keep their own
+licences:
+
+- `tei_evaluator/resources/schemas/tei_all.rng`: TEI P5 schema (TEI Consortium), available under CC BY and
+  BSD-2-Clause (see the licence note in the file)
+- `tei_evaluator/resources/tools/jing-RELEASE220.jar`: Jing RELAX NG validator (Thai Open Source Software
+  Center Ltd), BSD-3-Clause; licence text in `tei_evaluator/resources/tools/jing-COPYING.txt`
+- `data/examples/`: the example letters, their reference encodings and the model outputs are taken from the
+  *Hammer-Purgstall Briefedition* (Zentrum für Wissenschaftsgeschichte, University of Graz;
+  https://gams.uni-graz.at/context:hpe), based on Walter Höflechner, *Joseph von Hammer-Purgstall. Briefe*.
+  They are licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/).

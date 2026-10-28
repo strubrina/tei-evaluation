@@ -862,7 +862,9 @@ For detailed usage, see the Usage section above.
 
 ## License
 
-MIT
+Code: MIT. The bundled TEI schema and Jing validator keep their own licences, and the example data in
+`data/examples/` (letters from the *Hammer-Purgstall Briefedition*) is licensed under CC BY-NC 4.0; see
+`LICENSE`.
 
 ## Citation
 
